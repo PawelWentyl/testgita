@@ -1,1 +1,1 @@
-ten projekt ma na celu tylko i wy³¹cznie nauke git
+ten projekt ma na celu tylko i wy³¹cznie nauke git i github
