@@ -11,7 +11,10 @@ namespace testgita_console
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
-            Console.WriteLine("druga modyfikacja");
+            Console.WriteLine("druga modyfikacja2");
+            Console.WriteLine("druga modyfikacja3");
+            Console.WriteLine("druga modyfikacja4");
+        
             Console.ReadKey();
         }
     }
