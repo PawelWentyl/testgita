@@ -4,3 +4,4 @@ dopisaneten projekt ma na celu tylko i wy³¹cznie nauke git i github
 nowa modyfikacja
 kolejna modyfikacja
 kolejna modyfikacja 2
+kolejna modyfikacja 3
