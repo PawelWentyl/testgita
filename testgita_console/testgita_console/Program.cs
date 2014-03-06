@@ -14,6 +14,7 @@ namespace testgita_console
             Console.WriteLine("druga modyfikacja2");
             Console.WriteLine("druga modyfikacja3");
             Console.WriteLine("druga modyfikacja4");
+            Console.WriteLine("druga modyfikacja5");
         
             Console.ReadKey();
         }
